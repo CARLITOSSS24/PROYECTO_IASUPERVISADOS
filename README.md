@@ -27,16 +27,3 @@ Este documento debe mostrar que el modelo realmente "aprendió".
     * **Conclusión:** Explica cómo el árbol de decisión creó estas reglas automáticamente para clasificar las estaciones.
 
 ---
-
-### 4. Guion para el Video (Enfoque en la Rúbrica)
-
-Para sacar los **5 puntos** en la rúbrica, asegúrate de tocar estos puntos en los 5 minutos:
-
-1.  **Conceptos (1 min):** "Hola, somos Carlos y Manuel. Hoy presentamos el modelo de aprendizaje supervisado. Basándonos en el capítulo 17 de Palma Méndez, implementamos un Árbol de Decisión. La diferencia fundamental con el modelo anterior es que aquí tenemos una variable objetivo (etiquetada) que permite al modelo aprender patrones de causalidad."
-2.  **Diseño (2 min):** Muestra el código en pantalla. "Utilizamos `train_test_split` para validar nuestro modelo, asegurando que no memorice los datos, sino que aprenda reglas generalizables."
-3.  **Contenido (2 min):** "Aquí vemos la regla de decisión generada: el modelo concluye que si los incidentes superan X cantidad, la estación entra automáticamente en estado de retraso crítico. Esto permite a la gerencia del transporte tomar medidas preventivas antes de que ocurra el colapso."
-
-### Consejo final para los commits:
-Como el docente busca evidencia en el **log del repositorio**, haz que tú realices un commit (ej. "Add decision tree logic") y que Manuel realice otro pequeño commit (ej. "Refine documentation in README"), así el log mostrará actividad de ambos.
-
-¿Quieres que te genere el código de Python (`modelo_arbol.py`) para esta parte supervisada?
