@@ -8,7 +8,7 @@ Este proyecto implementa un modelo de **Aprendizaje Supervisado** para predecir 
 ## Información Académica
 * **Institución:** Corporación Universitaria Iberoamericana
 * **Programa:** Ingeniería de Ciencias de Datos
-* **Asignatura:** Inteligencia Artificial (Unidad 5)
+* **Asignatura:** Inteligencia Artificial (Actividad 3)
 * **Docente:** Joaquin Sanchez
 * **Integrantes:** Carlos David Alvarez Ojeda y Manuel Galindo Peña
 
